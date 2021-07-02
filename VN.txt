@@ -20,7 +20,7 @@ VTV6 (HD),
 VTV7 (HD),
 VTV8 (HD),
 VTV9 (HD),
-KÊNH HTV#genre#
+KÊNH HTV,#genre#
 HTV1,http://155.so/6g1DYs
 HTV2,http://155.so/6nxR39
 HTV3,http://155.so/5wUnwh
