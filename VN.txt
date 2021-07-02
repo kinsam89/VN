@@ -11,15 +11,15 @@ SCTV12,http://155.so/68v0sT
 SCTV13,http://155.so/6v3eGY
 SCTV19,http://155.so/5wTy5p
 KÊNH VTV,#genre#
-VTV1 (HD),http://155.so/5ToM4S
-VTV2 (HD),http://155.so/5Ttr81
-VTV3 (HD),http://155.so/60ZEcI
-VTV4 (HD),http://155.so/68vOG7
-VTV5 (HD),http://155.so/6g1BJU
-VTV6 (HD),http://155.so/6nxOOB
-VTV7 (HD,)http://155.so/5wUkZZ
-VTV8 (HD),http://155.so/5EmlVE
-VTV9 (HD),http://155.so/5LSz0l
+VTV1 (HD),http://155.so/5wUoUJ
+VTV2 (HD),http://27.67.64.82:18080//192_1.m3u8?AdaptiveType=HLS&SessionID=beebb6bd-213e-4070-bbb7-c6489155c0c5&MinBw=0&MaxBw=20000000
+VTV3 (HD),http://27.67.64.81:18080//155_2.m3u8?AdaptiveType=HLS&SessionID=4f27b398-50cc-4e45-b4cd-73522a7ab6be&MinBw=0&MaxBw=20000000
+VTV4 (HD),http://27.67.64.83:18080//193_1.m3u8?AdaptiveType=HLS&SessionID=71b4a706-2225-4892-926b-37e7e1917097&MinBw=0&MaxBw=20000000
+VTV5 (HD),http://27.67.64.80:18080//194_1.m3u8?AdaptiveType=HLS&SessionID=b1464b6c-40e7-45d5-ad45-ff80e3ed9429&MinBw=0&MaxBw=20000000
+VTV6 (HD),http://27.67.64.72:18080//156_2.m3u8?AdaptiveType=HLS&SessionID=b4e5a7ae-96c9-4190-abfe-7f7d7d5f7ea7&MinBw=0&MaxBw=20000000
+VTV7 (HD),http://27.67.64.69:18080//195_1.m3u8?AdaptiveType=HLS&SessionID=003250c1-a804-4d9e-a12d-1be50a32aceb&MinBw=0&MaxBw=20000000
+VTV8 (HD),http://27.67.64.71:18080//196_1.m3u8?AdaptiveType=HLS&SessionID=16aa28cc-2177-425f-bb39-f897ee5291d6&MinBw=0&MaxBw=20000000
+VTV9 (HD),http://27.67.64.81:18080//197_1.m3u8?AdaptiveType=HLS&SessionID=205247e6-e9b0-49fc-8c1c-d7fa3fedfa2e&MinBw=0&MaxBw=20000000
 KÊNH HTV#genre#
 HTV1,http://155.so/6g1DYs
 HTV2,http://155.so/6nxR39
