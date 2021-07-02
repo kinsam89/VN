@@ -11,15 +11,15 @@ SCTV12,http://155.so/68v0sT
 SCTV13,http://155.so/6v3eGY
 SCTV19,http://155.so/5wTy5p
 KÊNH VTV,#genre#
-VTV1 (HD),http://155.so/5wUoUJ
-VTV2 (HD),http://27.67.64.82:18080//192_1.m3u8?AdaptiveType=HLS&SessionID=beebb6bd-213e-4070-bbb7-c6489155c0c5&MinBw=0&MaxBw=20000000
-VTV3 (HD),http://27.67.64.81:18080//155_2.m3u8?AdaptiveType=HLS&SessionID=4f27b398-50cc-4e45-b4cd-73522a7ab6be&MinBw=0&MaxBw=20000000
-VTV4 (HD),http://27.67.64.83:18080//193_1.m3u8?AdaptiveType=HLS&SessionID=71b4a706-2225-4892-926b-37e7e1917097&MinBw=0&MaxBw=20000000
-VTV5 (HD),http://27.67.64.80:18080//194_1.m3u8?AdaptiveType=HLS&SessionID=b1464b6c-40e7-45d5-ad45-ff80e3ed9429&MinBw=0&MaxBw=20000000
-VTV6 (HD),http://27.67.64.72:18080//156_2.m3u8?AdaptiveType=HLS&SessionID=b4e5a7ae-96c9-4190-abfe-7f7d7d5f7ea7&MinBw=0&MaxBw=20000000
-VTV7 (HD),http://27.67.64.69:18080//195_1.m3u8?AdaptiveType=HLS&SessionID=003250c1-a804-4d9e-a12d-1be50a32aceb&MinBw=0&MaxBw=20000000
-VTV8 (HD),http://27.67.64.71:18080//196_1.m3u8?AdaptiveType=HLS&SessionID=16aa28cc-2177-425f-bb39-f897ee5291d6&MinBw=0&MaxBw=20000000
-VTV9 (HD),http://27.67.64.81:18080//197_1.m3u8?AdaptiveType=HLS&SessionID=205247e6-e9b0-49fc-8c1c-d7fa3fedfa2e&MinBw=0&MaxBw=20000000
+VTV1 (HD),http://27.67.64.82:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl82wNMlJIpCIx67mp5K8U0yiPOIZjySOml+GTlVH5BOvxRcdku0i87Rq4y9NeNelPm6e3Hm5iMaRMVhSLwraGXBSJkkbxUKQQJ5HW7jN3mQf/Kh6huGe0dcP+F4BBfODWMcm2WHwL0eHQvzbVW30I4wsGf6r14h9wQduseiX+3D+H&SessionID=b7959fca-bc61-4329-bb4e-b32d0b2e9e5a&StreamID=04f13b64-1364-412b-b151-900e025c80c3&MinBw=0&MaxBw=2000000
+VTV2 (HD),http://27.67.64.83:18080/192.m3u8?AdaptiveType=HLS&VOD_RequestID=XVpVjVWYnrrN0jrvG+qbXmgG6CvxskJX9cfx6EdYJZOabjWD4Qa0VlaxAqWKNTCsldhhreLc9+N4mvU9/5pJXhIZwbSKN89ginxSc50H3VCUIyYTenFeWwcXh92mAM//f+FkelcENan5JSr5t72kSg==&SessionID=92e09fc2-79f5-4d94-b6cb-5914a43d3708&StreamID=dd1fa2fa-ac25-49ea-9962-a1ec69a63079&MinBw=0&MaxBw=2000000
+VTV3 (HD),http://27.67.80.206:18080/155.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8zyBxjn/JVON5tA0Z0eNvys11mR/gycb//rVXJ2EOAF1EDC4AqgBCfBzKvYVIxKmxBhLtpP0yLoxoFF+/bZ7e84f5hnvKtnExMqXcfEs3BoFFTboOcmdAw6SgOGTZUUmN0CWLOq4FrRJEZPJyez6Q7flZObPduZf77qbCawrZinD&SessionID=e6d7ebb7-72a7-4867-b2e8-9cc23f7e4b07&StreamID=d9d2818b-1eac-4546-8891-fcee3bd04c88&MinBw=0&MaxBw=2000000
+VTV4 (HD),
+VTV5 (HD),
+VTV6 (HD),
+VTV7 (HD),
+VTV8 (HD),
+VTV9 (HD),
 KÊNH HTV#genre#
 HTV1,http://155.so/6g1DYs
 HTV2,http://155.so/6nxR39
