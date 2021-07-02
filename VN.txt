@@ -1,4 +1,4 @@
-SCTV,#genre#
+KÊNH SCTV,#genre#
 SCTV1,http://155.so/60YLVS
 SCTV2,http://155.so/6g0LOe
 SCTV3,http://155.so/6v3bXC
@@ -10,3 +10,22 @@ SCTV11,http://155.so/60YNoc
 SCTV12,http://155.so/68v0sT
 SCTV13,http://155.so/6v3eGY
 SCTV19,http://155.so/5wTy5p
+KÊNH VTV,#genre#
+VTV1 (HD)http://155.so/5ToM4S
+VTV2 (HD)http://155.so/5Ttr81
+VTV3 (HD)http://155.so/60ZEcI
+VTV4 (HD)http://155.so/68vOG7
+VTV5 (HD)http://155.so/6g1BJU
+VTV6 (HD)http://155.so/6nxOOB
+VTV7 (HD)http://155.so/5wUkZZ
+VTV8 (HD)http://155.so/5EmlVE
+VTV9 (HD)http://155.so/5LSz0l
+KÊNH HTV#genre#
+HTV1,http://155.so/6g1DYs
+HTV2,http://155.so/6nxR39
+HTV3,http://155.so/5wUnwh
+HTV4,http://155.so/5Emoqk
+Phụ Nữ,http://155.so/5ToOzI
+Thuần Việt,http://155.so/5TttmJ
+FBNC,http://155.so/60ZGrq
+Du Lịch Cuộc Sống,http://155.so/6g1DYC
