@@ -9,23 +9,23 @@ SCTV10,http://155.so/5TnVgm
 SCTV11,http://155.so/60YNoc
 SCTV12,http://155.so/68v0sT
 SCTV13,http://155.so/6v3eGY
-SCTV19,http://155.so/5wTy5p
+
 KÊNH VTV,#genre#
-VTV1 (HD),http://27.67.64.82:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl82wNMlJIpCIx67mp5K8U0yiPOIZjySOml+GTlVH5BOvxRcdku0i87Rq4y9NeNelPm6e3Hm5iMaRMVhSLwraGXBSJkkbxUKQQJ5HW7jN3mQf/Kh6huGe0dcP+F4BBfODWMcm2WHwL0eHQvzbVW30I4wsGf6r14h9wQduseiX+3D+H&SessionID=b7959fca-bc61-4329-bb4e-b32d0b2e9e5a&StreamID=04f13b64-1364-412b-b151-900e025c80c3&MinBw=0&MaxBw=2000000
-VTV2 (HD),http://27.67.64.83:18080/192.m3u8?AdaptiveType=HLS&VOD_RequestID=XVpVjVWYnrrN0jrvG+qbXmgG6CvxskJX9cfx6EdYJZOabjWD4Qa0VlaxAqWKNTCsldhhreLc9+N4mvU9/5pJXhIZwbSKN89ginxSc50H3VCUIyYTenFeWwcXh92mAM//f+FkelcENan5JSr5t72kSg==&SessionID=92e09fc2-79f5-4d94-b6cb-5914a43d3708&StreamID=dd1fa2fa-ac25-49ea-9962-a1ec69a63079&MinBw=0&MaxBw=2000000
-VTV3 (HD),http://27.67.80.206:18080/155.m3u8?AdaptiveType=HLS&VOD_RequestID=4Ta14gtwQkh8csTdxMSl8zyBxjn/JVON5tA0Z0eNvys11mR/gycb//rVXJ2EOAF1EDC4AqgBCfBzKvYVIxKmxBhLtpP0yLoxoFF+/bZ7e84f5hnvKtnExMqXcfEs3BoFFTboOcmdAw6SgOGTZUUmN0CWLOq4FrRJEZPJyez6Q7flZObPduZf77qbCawrZinD&SessionID=e6d7ebb7-72a7-4867-b2e8-9cc23f7e4b07&StreamID=d9d2818b-1eac-4546-8891-fcee3bd04c88&MinBw=0&MaxBw=2000000
-VTV4 (HD),
-VTV5 (HD),
-VTV6 (HD),
-VTV7 (HD),
-VTV8 (HD),
-VTV9 (HD),
+VTV1,http://155.so/6nz42b
+VTV2,http://155.so/5LXXSh
+VTV3,http://155.so/5SOdOk
+VTV4,http://155.so/6v5eHw
+VTV5,http://155.so/5TyQah
+VTV6,http://155.so/5LXY69
+VTV7,http://155.so/5TDvjn
+VTV8,http://155.so/6v9THq
+VTV9,http://155.so/6v9TKa
 KÊNH HTV,#genre#
-HTV1,http://155.so/6g1DYs
-HTV2,http://155.so/6nxR39
-HTV3,http://155.so/5wUnwh
-HTV4,http://155.so/5Emoqk
-Phụ Nữ,http://155.so/5ToOzI
-Thuần Việt,http://155.so/5TttmJ
-FBNC,http://155.so/60ZGrq
-Du Lịch Cuộc Sống,http://155.so/6g1DYC
+HTV1,http://155.so/6nz3q7
+HTV2,http://155.so/6nzqZp
+HTV3,http://155.so/5TyKQL
+HTV4,http://155.so/5SOcQu
+HTV7,http://155.so/5wVuhF
+HTV9,http://155.so/5LXV3V
+HTV Thể Thao,http://155.so/5TyP2B
+
