@@ -1,42 +1,4 @@
 
-KÊNH SCTV,#genre#
-SCTV1,http://155.so/60YLVS
-SCTV2,http://155.so/6g0LOe
-SCTV3,http://155.so/6v3bXC
-SCTV6,http://155.so/5wTvm3
-SCTV7,http://155.so/5wTucV
-SCTV9,http://155.so/5LVUmj
-SCTV10,http://155.so/5TnVgm
-SCTV11,http://155.so/60YNoc
-SCTV12,http://155.so/68v0sT
-SCTV13,http://155.so/6v3eGY
-KÊNH VTV,#genre#
-VTV1,http://155.so/5SQbEQ
-VTV2,http://155.so/5ExYHS
-VTV3,http://155.so/5SR1ni
-VTV3,http://155.so/5LkOx7
-VTV4,http://155.so/6172wG
-VTV5,http://155.so/68DfKp
-VTV6,http://155.so/5x2XSf
-VTV6,http://155.so/5TBEnf
-VTV7,http://155.so/6g9tbw
-VTV8,http://155.so/6vbTsu
-VTV9,http://155.so/5x1MNB
-KÊNH HTV,#genre#
-HTV1,http://155.so/6nz3q7
-HTV2,http://155.so/6nzqZp
-HTV3,http://155.so/5TyKQL
-HTV4,http://155.so/5SOcQu
-HTV7,http://155.so/5wVuhF
-HTV9,http://155.so/5LXV3V
-HTV Thể Thao,http://155.so/5TyP2B
-HTVC,http://155.so/6vcIri
-DU LỊCH CUỘC SỐNG,http://155.so/6vcIPY
-GIA ĐÌNH,http://155.so/5SR3qS
-PHỤ NỮ,http://155.so/5SR3ik
-C+,http://155.so/617TdW
-HTVC CA NHẠC,http://155.so/6vcJn2
-THUẦN VIỆT,http://155.so/6vcJce
 KÊNH VTC,#genre#
 VTC1,http://155.so/68E75P
 VTC2,http://155.so/5LkRuv
