@@ -14,3 +14,9 @@ VTC12,http://155.so/5EuF4G
 VTC13,http://155.so/617UP8
 VTC14,http://155.so/6nGy75
 VTC16,http://155.so/6vcle6
+BTV1,http://155.so/617Vvo
+BTV2,http://155.so/5LkTe5
+BTV4,http://155.so/5x2D45
+BTV6,http://155.so/617VZS
+BTV9,http://155.so/6gamgc
+BTV11,http://155.so/5SR6Dq
