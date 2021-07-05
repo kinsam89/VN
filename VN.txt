@@ -9,7 +9,6 @@ SCTV10,http://155.so/5TnVgm
 SCTV11,http://155.so/60YNoc
 SCTV12,http://155.so/68v0sT
 SCTV13,http://155.so/6v3eGY
-
 KÊNH VTV,#genre#
 VTV1,http://155.so/5SQbEQ
 VTV2,http://155.so/5ExYHS
@@ -22,7 +21,6 @@ VTV6,http://155.so/5TBEnf
 VTV7,http://155.so/6g9tbw
 VTV8,http://155.so/6vbTsu
 VTV9,http://155.so/5x1MNB
-
 KÊNH HTV,#genre#
 HTV1,http://155.so/6nz3q7
 HTV2,http://155.so/6nzqZp
@@ -38,7 +36,6 @@ PHỤ NỮ,http://155.so/5SR3ik
 C+,http://155.so/617TdW
 HTVC CA NHẠC,http://155.so/6vcJn2
 THUẦN VIỆT,http://155.so/6vcJce
-
 KÊNH VTC,#genre#
 VTC1,http://155.so/68E75P
 VTC2,http://155.so/5LkRuv
@@ -55,7 +52,6 @@ VTC12,http://155.so/5EuF4G
 VTC13,http://155.so/617UP8
 VTC14,http://155.so/6nGy75
 VTC16,http://155.so/6vcle6
-
 KÊNH TỔNG HỢP,#genre#
 HÀ NÔI 1,http://155.so/6gao4M
 HÀ NỘI 2,http://155.so/68Eb71
@@ -67,7 +63,6 @@ QUỐC PHÒNG,http://155.so/5EuHBM
 AN NINH,http://155.so/5SRaH2
 V-NEW,http://155.so/617Xwo
 NHÂN DÂN TV,http://155.so/617XCc
-
 KÊNH BTV,#genre#
 BTV1,http://155.so/617Vvo
 BTV2,http://155.so/5LkTe5
