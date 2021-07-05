@@ -11,15 +11,15 @@ SCTV12,http://155.so/68v0sT
 SCTV13,http://155.so/6v3eGY
 
 KÊNH VTV,#genre#
-VTV1,http://155.so/6nz42b
-VTV2,http://155.so/5LXXSh
-VTV3,http://155.so/5SOdOk
-VTV4,http://155.so/6v5eHw
-VTV5,http://155.so/5TyQah
-VTV6,http://155.so/5LXY69
-VTV7,http://155.so/5TDvjn
-VTV8,http://155.so/6v9THq
-VTV9,http://155.so/6v9TKa
+VTV1,http://155.so/5SQbEQ
+VTV2,http://155.so/5ExYHS
+VTV3,http://155.so/5Lokch
+VTV4,http://155.so/6172wG
+VTV5,http://155.so/68DfKp
+VTV6,http://155.so/5TAVTl
+VTV7,http://155.so/6g9tbw
+VTV8,http://155.so/6vbTsu
+VTV9,http://155.so/5x1MNB
 KÊNH HTV,#genre#
 HTV1,http://155.so/6nz3q7
 HTV2,http://155.so/6nzqZp
