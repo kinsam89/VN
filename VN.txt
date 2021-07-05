@@ -1,4 +1,4 @@
-KÊNHVTC,#genre#
+KÊNH VTC,#genre#
 VTC1,http://155.so/68E75P
 VTC2,http://155.so/5LkRuv
 VTC3,http://155.so/6vckvU
