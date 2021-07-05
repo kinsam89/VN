@@ -13,13 +13,16 @@ SCTV13,http://155.so/6v3eGY
 KÊNH VTV,#genre#
 VTV1,http://155.so/5SQbEQ
 VTV2,http://155.so/5ExYHS
-VTV3,http://155.so/5Lokch
+VTV3,http://155.so/5SR1ni
+VTV3,http://155.so/5LkOx7
 VTV4,http://155.so/6172wG
 VTV5,http://155.so/68DfKp
-VTV6,http://155.so/5TAVTl
+VTV6,http://155.so/5x2XSf
+VTV6,http://155.so/5TBEnf
 VTV7,http://155.so/6g9tbw
 VTV8,http://155.so/6vbTsu
 VTV9,http://155.so/5x1MNB
+
 KÊNH HTV,#genre#
 HTV1,http://155.so/6nz3q7
 HTV2,http://155.so/6nzqZp
@@ -28,4 +31,49 @@ HTV4,http://155.so/5SOcQu
 HTV7,http://155.so/5wVuhF
 HTV9,http://155.so/5LXV3V
 HTV Thể Thao,http://155.so/5TyP2B
+HTVC,http://155.so/6vcIri
+DU LỊCH CUỘC SỐNG,http://155.so/6vcIPY
+GIA ĐÌNH,http://155.so/5SR3qS
+PHỤ NỮ,http://155.so/5SR3ik
+C+,http://155.so/617TdW
+HTVC CA NHẠC,http://155.so/6vcJn2
+THUẦN VIỆT,http://155.so/6vcJce
+
+KÊNH VTC,#genre#
+VTC1,http://155.so/68E75P
+VTC2,http://155.so/5LkRuv
+VTC3,http://155.so/6vckvU
+VTC4,http://155.so/5x2EHR
+VTC5,http://155.so/68E8bJ
+VTC6,http://155.so/5TBJUN
+VTC7,http://155.so/5x2EQz
+VTC8,http://155.so/5TBKjj
+VTC9,http://155.so/5EuFaO
+VTC10,http://155.so/6vckXa
+VTC11,http://155.so/5SR5YC
+VTC12,http://155.so/5EuF4G
+VTC13,http://155.so/617UP8
+VTC14,http://155.so/6nGy75
+VTC16,http://155.so/6vcle6
+
+KÊNH TỔNG HỢP,#genre#
+HÀ NÔI 1,http://155.so/6gao4M
+HÀ NỘI 2,http://155.so/68Eb71
+NCM,http://155.so/5EuHlE
+FBNC,http://155.so/5x2Guv
+VOV TV,http://155.so/68Eacz
+QUỐC HÔI,http://155.so/5EuHLW
+QUỐC PHÒNG,http://155.so/5EuHBM
+AN NINH,http://155.so/5SRaH2
+V-NEW,http://155.so/617Xwo
+NHÂN DÂN TV,http://155.so/617XCc
+
+KÊNH BTV,#genre#
+BTV1,http://155.so/617Vvo
+BTV2,http://155.so/5LkTe5
+BTV4,http://155.so/5x2D45
+BTV6,http://155.so/617VZS
+BTV9,http://155.so/6gamgc
+BTV11,http://155.so/5SR6Dq
+
 
