@@ -5,7 +5,6 @@ SCTV3,http://155.so/6v3bXC
 SCTV6,http://155.so/5wTvm3
 SCTV7,http://155.so/5wTucV
 SCTV9,http://155.so/5LVUmj
-SCTV10,http://155.so/5TnVgm
 SCTV11,http://155.so/60YNoc
 SCTV12,http://155.so/68v0sT
 SCTV13,http://155.so/6v3eGY
