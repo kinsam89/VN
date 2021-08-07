@@ -1,5 +1,4 @@
 KÊNH SCTV,#genre#
-
 SCTV1,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8
 SCTV2,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8
 SCTV3,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8
@@ -9,7 +8,6 @@ SCTV9,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8
 SCTV11,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8
 SCTV12,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8
 SCTV13,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8
-
 KÊNH VTV,#genre#
 VTV1,http://155.so/5SQbEQ
 VTV2,http://155.so/5ExYHS
@@ -85,3 +83,4 @@ NHÂN DÂN TV,http://155.so/617XCc
 粉红台,p2p://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
 香蕉台,p2p://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
 Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+
