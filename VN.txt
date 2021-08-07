@@ -1,4 +1,5 @@
 KÊNH SCTV,#genre#
+
 SCTV1,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8
 SCTV2,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8
 SCTV3,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8
@@ -8,6 +9,7 @@ SCTV9,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8
 SCTV11,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8
 SCTV12,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8
 SCTV13,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8
+
 KÊNH VTV,#genre#
 VTV1,http://155.so/5SQbEQ
 VTV2,http://155.so/5ExYHS
@@ -71,21 +73,14 @@ NHÂN DÂN TV,http://155.so/617XCc
 私密_138,#genre#
 松视 1台,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
 松视 2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
-
 松视 2台（备),p2p://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
-
 惊艳台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
-
 惊艳台(备),p2p://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
-
 极限电影,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
 潘多拉完美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
-
 彩虹电影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
 彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
-
 彩虹E台(备),p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
-
 完美台,p2p://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
 粉红台,p2p://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
 香蕉台,p2p://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
