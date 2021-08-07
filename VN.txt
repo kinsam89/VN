@@ -26,11 +26,7 @@ HTV2,http://155.so/6nzqZp
 HTV3,http://155.so/5TyKQL
 HTV4,http://155.so/5SOcQu
 HTV7,https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImh0djctaGQiLCAicm1pcCI6ICIxMDAuMTExLjE5NC41NCIsICJ1c2VyX2lkIjogMTM2NzEzMzYsICJ0aW1lc3RhbXAiOiAxNjI3ODE1Mjg1fQ&user_id=90257966
-
-
-
 HTV9,https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImh0djktaGQiLCAicm1pcCI6ICIxMDAuMTExLjE5NC41NCIsICJ1c2VyX2lkIjogMTM2NzEzMzYsICJ0aW1lc3RhbXAiOiAxNjI3ODE1NDI3fQ&user_id=90257966
-
 HTV Thể Thao,http://155.so/5TyP2B
 HTVC,http://155.so/6vcIri
 DU LỊCH CUỘC SỐNG,http://155.so/6vcIPY
