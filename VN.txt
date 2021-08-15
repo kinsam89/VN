@@ -1,7 +1,8 @@
 KÊNH SCTV,#genre#
-SCTV1,http://115.77.248.202:8080/live/sctv2/index.m3u8?token=nExw0eeJO-qv08QClctElA&e=1628339654
-SCTV9,http://cdn2.freedavis.cf/live/ezNO-0jgmDA-s9eIOPALGQ/1628338613/sctv9.m3u8
-SCTV11,http://116.102.36.114:8080/live/sctv11/index.m3u8?token=Ab6tV-6O_DyIBsZa9nJZkQ&e=1628340155
+SCTV2,http://171.232.181.94:8080/live/sctv2/index.m3u8?token=KLT-MQyF81N8YiwWWNzARg&e=1629049776
+SCTV9,http://171.232.180.209:8080/live/sctv9/index.m3u8?token=z-TXbTWxTvnj9KBDKtRJ1Q&e=1629050007
+SCTV11,http://171.232.181.94:8080/live/sctv11/index.m3u8?token=lJFA7D6KoEwnrPD7-RoCxg&e=1629050048
+SCTV15,http://171.232.181.94:8080/live/sctv15/index.m3u8?token=EdiEZFUM8H4172h2QzTs4g&e=1629050192
 KÊNH VTV,#genre#
 VTV1,http://155.so/5SQbEQ
 VTV2,http://155.so/5ExYHS
