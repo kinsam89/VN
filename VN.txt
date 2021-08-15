@@ -2,7 +2,6 @@ KÊNH SCTV,#genre#
 SCTV1,http://115.77.248.202:8080/live/sctv2/index.m3u8?token=nExw0eeJO-qv08QClctElA&e=1628339654
 SCTV9,http://cdn2.freedavis.cf/live/ezNO-0jgmDA-s9eIOPALGQ/1628338613/sctv9.m3u8
 SCTV11,http://116.102.36.114:8080/live/sctv11/index.m3u8?token=Ab6tV-6O_DyIBsZa9nJZkQ&e=1628340155
-
 KÊNH VTV,#genre#
 VTV1,http://155.so/5SQbEQ
 VTV2,http://155.so/5ExYHS
@@ -78,4 +77,3 @@ NHÂN DÂN TV,http://155.so/617XCc
 粉红台,p2p://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
 香蕉台,p2p://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
 Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
-
