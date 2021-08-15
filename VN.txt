@@ -1,13 +1,8 @@
 KÊNH SCTV,#genre#
-SCTV1,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8
-SCTV2,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8
-SCTV3,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8
-SCTV6,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd1/index.m3u8
-SCTV7,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd1/index.m3u8
-SCTV9,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8
-SCTV11,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8
-SCTV12,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8
-SCTV13,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8
+SCTV1,http://115.77.248.202:8080/live/sctv2/index.m3u8?token=nExw0eeJO-qv08QClctElA&e=1628339654
+SCTV9,http://cdn2.freedavis.cf/live/ezNO-0jgmDA-s9eIOPALGQ/1628338613/sctv9.m3u8
+SCTV11,http://116.102.36.114:8080/live/sctv11/index.m3u8?token=Ab6tV-6O_DyIBsZa9nJZkQ&e=1628340155
+
 KÊNH VTV,#genre#
 VTV1,http://155.so/5SQbEQ
 VTV2,http://155.so/5ExYHS
