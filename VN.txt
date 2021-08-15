@@ -1,99 +1,7 @@
-
-越南短链 http://155.so/6g1wCa
-
-
-SCTV1,http://155.so/60YLVS
-SCTV2,http://155.so/6g0LOe
-SCTV3,http://155.so/6v3bXC
-SCTV6,http://155.so/5wTvm3
-SCTV7,http://155.so/5wTucV
-SCTV9,http://155.so/5LVUmj
-SCTV10,http://155.so/5TnVgm
-SCTV11,http://155.so/60YNoc
-SCTV12,http://155.so/68v0sT
-SCTV13,http://155.so/6v3eGY
-SCTV19,
-
-
-HTV1,http://155.so/6nz3q7
-HTV2,http://155.so/6nzqZp
-HTV3,http://155.so/5TyKQL
-HTV4,http://155.so/5SOcQu
-HTV7,http://155.so/5wVuhF
-HTV9,http://155.so/5LXV3V
-HTV Thể Thao,http://155.so/5TyP2B
-
-VTV1,http://155.so/5SQbEQ
-VTV2,http://155.so/5ExYHS
-VTV3,http://155.so/5SR1ni
-VTV3,http://155.so/5LkOx7
-VTV4,http://155.so/6172wG
-VTV5,http://155.so/68DfKp
-VTV6,http://155.so/5x2XSf
-VTV6,http://155.so/5TBEnf
-VTV7,http://155.so/6g9tbw
-VTV8,http://155.so/6vbTsu
-VTV9,http://155.so/5x1MNB
-
-HTVC,http://155.so/6vcIri
-DU LỊCH CUỘC SỐNG,http://155.so/6vcIPY
-GIA ĐÌNH,http://155.so/5SR3qS
-PHỤ NỮ,http://155.so/5SR3ik
-C+,http://155.so/617TdW
-HTVC CA NHẠC,http://155.so/6vcJn2
-THUẦN VIỆT,http://155.so/6vcJce
-
-VTC1,http://155.so/68E75P
-VTC2,http://155.so/5LkRuv
-VTC3,http://155.so/6vckvU
-VTC4,http://155.so/5x2EHR
-VTC5,http://155.so/68E8bJ
-VTC6,http://155.so/5TBJUN
-VTC7,http://155.so/5x2EQz
-VTC8,http://155.so/5TBKjj
-VTC9,http://155.so/5EuFaO
-VTC10,http://155.so/6vckXa
-VTC11,http://155.so/5SR5YC
-VTC12,http://155.so/5EuF4G
-VTC13,http://155.so/617UP8
-VTC14,http://155.so/6nGy75
-VTC16,http://155.so/6vcle6
-
-BTV1,http://155.so/617Vvo
-BTV2,http://155.so/5LkTe5
-BTV4,http://155.so/5x2D45
-BTV6,http://155.so/617VZS
-BTV9,http://155.so/6gamgc
-BTV11,http://155.so/5SR6Dq
-
-VĨNH LONG 1,http://155.so/617WxA
-VĨNH LONG 2,http://155.so/6nGxfn
-VĨNH LONG 3,http://155.so/5x2DLt
-VĨNH LONG 4,http://155.so/6vckdG
-
-HÀ NÔI 1,http://155.so/6gao4M
-HÀ NỘI 2,http://155.so/68Eb71
-NCM,http://155.so/5EuHlE
-FBNC,http://155.so/5x2Guv
-VOV TV,http://155.so/68Eacz
-QUỐC HÔI,http://155.so/5EuHLW
-QUỐC PHÒNG,http://155.so/5EuHBM
-AN NINH,http://155.so/5SRaH2
-V-NEW,http://155.so/617Xwo
-NHÂN DÂN TV,http://155.so/617XCc
-
-
 KÊNH SCTV,#genre#
-SCTV1,http://155.so/60YLVS
-SCTV2,http://155.so/6g0LOe
-SCTV3,http://155.so/6v3bXC
-SCTV6,http://155.so/5wTvm3
-SCTV7,http://155.so/5wTucV
-SCTV9,http://155.so/5LVUmj
-SCTV10,http://155.so/5TnVgm
-SCTV11,http://155.so/60YNoc
-SCTV12,http://155.so/68v0sT
-SCTV13,http://155.so/6v3eGY
+SCTV1,http://115.77.248.202:8080/live/sctv2/index.m3u8?token=nExw0eeJO-qv08QClctElA&e=1628339654
+SCTV9,http://cdn2.freedavis.cf/live/ezNO-0jgmDA-s9eIOPALGQ/1628338613/sctv9.m3u8
+SCTV11,http://116.102.36.114:8080/live/sctv11/index.m3u8?token=Ab6tV-6O_DyIBsZa9nJZkQ&e=1628340155
 KÊNH VTV,#genre#
 VTV1,http://155.so/5SQbEQ
 VTV2,http://155.so/5ExYHS
@@ -111,8 +19,8 @@ HTV1,http://155.so/6nz3q7
 HTV2,http://155.so/6nzqZp
 HTV3,http://155.so/5TyKQL
 HTV4,http://155.so/5SOcQu
-HTV7,http://155.so/5wVuhF
-HTV9,http://155.so/5LXV3V
+HTV7,https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImh0djctaGQiLCAicm1pcCI6ICIxMDAuMTExLjE5NC41NCIsICJ1c2VyX2lkIjogMTM2NzEzMzYsICJ0aW1lc3RhbXAiOiAxNjI3ODE1Mjg1fQ&user_id=90257966
+HTV9,https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImh0djktaGQiLCAicm1pcCI6ICIxMDAuMTExLjE5NC41NCIsICJ1c2VyX2lkIjogMTM2NzEzMzYsICJ0aW1lc3RhbXAiOiAxNjI3ODE1NDI3fQ&user_id=90257966
 HTV Thể Thao,http://155.so/5TyP2B
 HTVC,http://155.so/6vcIri
 DU LỊCH CUỘC SỐNG,http://155.so/6vcIPY
@@ -121,7 +29,7 @@ PHỤ NỮ,http://155.so/5SR3ik
 C+,http://155.so/617TdW
 HTVC CA NHẠC,http://155.so/6vcJn2
 THUẦN VIỆT,http://155.so/6vcJce
-KÊNH VTC,#genre#
+KÊNH VTC & BTV,#genre#
 VTC1,http://155.so/68E75P
 VTC2,http://155.so/5LkRuv
 VTC3,http://155.so/6vckvU
@@ -137,6 +45,12 @@ VTC12,http://155.so/5EuF4G
 VTC13,http://155.so/617UP8
 VTC14,http://155.so/6nGy75
 VTC16,http://155.so/6vcle6
+BTV1,http://155.so/617Vvo
+BTV2,http://155.so/5LkTe5
+BTV4,http://155.so/5x2D45
+BTV6,http://155.so/617VZS
+BTV9,http://155.so/6gamgc
+BTV11,http://155.so/5SR6Dq
 KÊNH TỔNG HỢP,#genre#
 HÀ NÔI 1,http://155.so/6gao4M
 HÀ NỘI 2,http://155.so/68Eb71
@@ -148,11 +62,3 @@ QUỐC PHÒNG,http://155.so/5EuHBM
 AN NINH,http://155.so/5SRaH2
 V-NEW,http://155.so/617Xwo
 NHÂN DÂN TV,http://155.so/617XCc
-KÊNH BTV,#genre#
-BTV1,http://155.so/617Vvo
-BTV2,http://155.so/5LkTe5
-BTV4,http://155.so/5x2D45
-BTV6,http://155.so/617VZS
-BTV9,http://155.so/6gamgc
-BTV11,http://155.so/5SR6Dq
-
