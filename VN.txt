@@ -1,3 +1,4 @@
+<script>document.title='标题'</script>
 KÊNH SCTV,#genre#
 SCTV PHIM,http://116.108.26.39:8080/sctv/e1/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740&token=9PMWY5QAfWXcoCML90_TiQ&e=1632260137
 SCTV1,http://116.108.41.3:8080/sctv/e1/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740&token=wS7p0KTdrT4Oblxiwd5XzQ&e=1632254770
